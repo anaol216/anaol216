@@ -9,7 +9,9 @@ I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at *
 
 ## 🚀 Welcome to My GitHub Universe! 🌌
 
-![Futuristic Banner](https://images.unsplash.com/photo-1561484512-bc27fd156d95)
+![Futuristic Banner](https://i.imgur.com/yourimageid.png)
+
+
 
 ### 👨‍💻 About Me  
 
