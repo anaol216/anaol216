@@ -1,24 +1,34 @@
 # 👋 Hi, I’m Anaol Atinafu  
 
 I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at **Addis Ababa University** 🎓. I enjoy exploring new technologies and programming languages, focusing on **C++, Python, JavaScript, and React**.
+<p align="left">
+  <a href="https://twitter.com/yourusername" rel="nofollow">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter (X)" height="30" width="40" style="margin-right: 10px;">
+  </a>
+  
+  <a href="https://linkedin.com/in/yourprofile" rel="nofollow">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;">
+  </a>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto; display: block; border-radius: 10px;">
-</a>
+  <a href="https://instagram.com/yourusername" rel="nofollow">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40" style="margin-right: 10px;">
+  </a>
+
+  <a href="mailto:your.email@example.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" style="margin-right: 10px;">
+  </a>
+</p>
 
 
 ## 🚀 Welcome to My GitHub Universe! 🌌
 
-![Futuristic Banner](https://i.imgur.com/yourimageid.png)
-
-
-
 ### 👨‍💻 About Me  
 
 💡 **Interests:**  
-- 🔧 **FRONT-END & Full-Stack Development**  
-- 🔐 **Graphics Design**
-  
+- 🎨 ![Front-End](https://img.shields.io/badge/-Front--End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+- 🌐 ![Full-Stack](https://img.shields.io/badge/-Full--Stack%20Development-000000?style=for-the-badge&logo=javascript&logoColor=white)  
+- 🖌️ ![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-FF5722?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+
 🛠 **Tech Stack:**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -62,20 +72,6 @@ I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at *
 ## 🤝 Contributing  
 
 🌍 _Let's innovate together!_ Feel free to explore my repositories, fork projects, and open issues or PRs. Every contribution makes a difference!  
-
-📩 **Connect with me:**  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="mailto:anaolatinafu@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</div>
-
   <p class="highlight-text">
     🌟 Don't forget to <span class="highlight-star">⭐</span> star the repositories you find useful!
   </p>
