@@ -74,40 +74,9 @@ I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at *
   </a>
 </div>
 
-
-
   <p class="highlight-text">
     🌟 Don't forget to <span class="highlight-star">⭐</span> star the repositories you find useful!
   </p>
-
-
-<style>
-  .highlight-text {
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    color: #FFD700;
-    animation: pulseText 1.5s ease-in-out infinite;
-  }
-
-  .highlight-star {
-    color: #FF6347;
-    font-size: 1.4em;
-  }
-
-  @keyframes pulseText {
-    0% {
-      transform: scale(1);
-      text-shadow: 0 0 5px rgba(255, 255, 255, 0.6), 0 0 10px rgba(255, 215, 0, 0.8);
-    }
-    50% {
-      transform: scale(1.1);
-      text-shadow: 0 0 10px rgba(255, 215, 0, 1), 0 0 20px rgba(255, 215, 0, 0.8);
-    }
-
-
-
-
 
 🚀 _The future belongs to those who code it!_ ✨
 
