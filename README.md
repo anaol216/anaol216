@@ -10,11 +10,11 @@ I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at *
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;">
   </a>
 
-  <a href="https://instagram.com/yourusername" rel="nofollow">
+  <a href="https://instagram.com/anaol216" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40" style="margin-right: 10px;">
   </a>
 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:atinafuanaol@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" style="margin-right: 10px;">
   </a>
 </p>
