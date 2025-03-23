@@ -25,9 +25,9 @@ I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at *
 ### 👨‍💻 About Me  
 
 💡 **Interests:**  
-- 🎨 ![Front-End](https://img.shields.io/badge/-Front--End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-- 🌐 ![Full-Stack](https://img.shields.io/badge/-Full--Stack%20Development-000000?style=for-the-badge&logo=javascript&logoColor=white)  
-- 🖌️ ![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-FF5722?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+  🎨 ![Front-End](https://img.shields.io/badge/-Front--End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+  🌐 ![Full-Stack](https://img.shields.io/badge/-Full--Stack%20Development-000000?style=for-the-badge&logo=javascript&logoColor=white)  
+  🖌️ ![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-FF5722?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
 
 🛠 **Tech Stack:**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
