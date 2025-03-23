@@ -6,7 +6,7 @@ I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at *
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter (X)" height="30" width="40" style="margin-right: 10px;">
   </a>
   
-  <a href="(https://www.linkedin.com/in/anaol216)" rel="nofollow">
+  <a href="https://www.linkedin.com/in/anaol216" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;">
   </a>
 
