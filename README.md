@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anaol Atinafu  
 
-I'm **Anaol** from **Ethiopia**, a **3rd-year Information Systems student** at **Addis Ababa University** 🎓. I enjoy exploring new technologies and programming languages, focusing on **C++, Python, JavaScript, and React**.
+I'm **Anaol** from **Ethiopia**, a **Graduated Information Systems student** at **Addis Ababa University** 🎓. I enjoy exploring new technologies and programming languages, focusing on **C++, Python, JavaScript, and React**.
 <p align="left">
   <a href="https://twitter.com/yourusername" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter (X)" height="30" width="40" style="margin-right: 10px;">
